@@ -1,0 +1,17 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "MongoDB Test",
+  "main": "snippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB"
+  ],
+  "author": "Patrick Ford",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.12"
+  }
+}
